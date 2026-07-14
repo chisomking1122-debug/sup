@@ -1,0 +1,106 @@
+body{
+    background: url(ddf.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.loginbox{
+    width: 23pc;
+    height: 30pc;
+    border-radius: 20px;
+    margin-left: 45pc;
+    margin-top: 7pc;
+    padding-left: 2pc;
+    padding-top: 2pc;
+    background: rgba(255, 255, 255, 0);
+    backdrop-filter: blur(15px) ;
+}
+
+input{
+    height: 30px;
+    width: 20pc;
+    margin-top: 10px;
+}
+
+h1{
+    text-align: center;
+    padding-right: 20px;
+}
+.Forgot{
+    text-align: center;
+    margin-top: 1pc;
+    padding-right: 20px;
+}
+.Forgot a{
+    text-decoration: none;
+    color: blue;
+}
+.login{
+    background-color: blue;
+    width: 310px;
+    height: 34px;
+    border-radius: 7px;
+    margin-top: 1pc;
+    padding-left: 18px;
+    text-align: center;
+}
+.login a{
+    text-decoration: none;
+    font-size: 26px;
+    color: white;
+}
+.signup{
+    text-align: center;
+    margin-top: 1pc;
+    padding-right: 20px;
+}
+.signup a{
+    text-decoration: none;
+    color: blue;
+}
+.or{
+    text-align: center;
+    margin-top: 1pc;
+    padding-right: 20px;
+}
+.facebook{
+    background-color: rgb(51, 98, 238);
+    width: 310px;
+    height: 34px;
+    border-radius: 7px;
+    margin-top: 1pc;
+    padding-left: 18px;
+    text-align: center;
+}
+.facebook a{
+    text-decoration: none;
+    font-size: 18px;
+    color: white;
+}
+.facebook i{
+    font-size: 20px;
+    padding-top: 5px;
+}
+.Google{
+    border: 1px solid black;
+    width: 310px;
+    height: 34px;
+    border-radius: 7px;
+    margin-top: 1pc;
+    padding-left: 18px;
+    text-align: center;
+    
+}
+.Google a{
+   text-decoration: none;
+    font-size: 18px;
+    color: black;
+    margin:2pc ;
+}
+.Google img{
+    height: 20px;
+    width: 20px;
+    padding-top: 5px;
+}
+
+
+
